@@ -22,8 +22,11 @@
   font-weight: 800;
   font-size: 34px;
   line-height: 45px;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
 }
 
+/*
 .experience-heading p {
   font-family: var(--font-family);
   font-style: normal;
@@ -32,7 +35,7 @@
   line-height: 30px;
   color: #ff8a71;
   margin-top: 2rem;
-}
+}*/
 
 .experience-container {
   display: flex;
