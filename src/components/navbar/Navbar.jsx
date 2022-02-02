@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { RiMenu3Line, RiCloseLin, RiCloseLine } from 'react-icons/ri';
+import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 import './navbar.css';
 import { FaLaptopCode } from 'react-icons/fa';
 
@@ -12,20 +12,17 @@ const Menu = () => (
     </>
 )
 
-// BEM -> Block Element Modifier
-
 const Navbar = () => {
     const [toggleMenu, setToggleMenu] = useState(false);
 
     return (
         <div className='navbar'>
             <div className='navbar-links'>
-                <div className='navbar-links_container'>
+                <div className='navbar-links_container bounce-in-top'>
                     <Menu />
                 </div>
             </div> 
             <div className='navbar-sign'>
-                
                 <button type='button'>Contact me</button>
             </div>
             <div className='navbar-menu'>
@@ -38,7 +35,6 @@ const Navbar = () => {
                         <div className='navbar-menu_container-links'>
                             <Menu />
                              <div className='navbar-menu_container-links-sign'>
-                                
                                 <button type='button'>Contact me</button>
                              </div>
                         </div>

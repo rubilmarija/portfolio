@@ -10,7 +10,7 @@ const About = () => {
            </div> 
            <div className='aboutMe-heading'>
                <h1 className='gradient__text'>"Everything you can imagine is real." <p>Pablo Picasso</p></h1>
-               <p>Read more</p>
+               <p>Read more about me</p>
            </div>
            <div className='aboutMe-container'>
                <Feature title="My path" text=""/>

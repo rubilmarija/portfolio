@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css';
-import undraw from '../../assets/undraw_profile_data_re_v81r.svg'
+import undraw from '../../assets/undraw_proud_coder_1.svg'
 
 const Header = () => {
     return (

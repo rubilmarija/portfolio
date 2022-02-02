@@ -37,7 +37,7 @@
 .navbar-links_container p,
 .navbar-sign p,
 .navbar-menu_container p {
-  color: #fff;
+  color: salmon;
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 18px;
@@ -52,8 +52,8 @@
 .navbar-menu_container button {
   padding: 1rem;
   margin-right: 2rem;
-  color: #fff;
-  background: #ff4820;
+  color: #fff5eb;
+  background: salmon;
   font-family: var(--font-family);
   font-weight: 600;
   font-size: 14px;
@@ -82,7 +82,7 @@
   flex-direction: column;
 
   text-align: end;
-  background: var(--color-footer);
+  background: #deedf0;
   padding: 2rem;
   position: absolute;
   top: 40px;

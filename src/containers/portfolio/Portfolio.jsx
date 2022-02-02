@@ -11,7 +11,7 @@ const Portfolio = () => {
             </div>
             <div className='portfolio-container'>
                 <div className='portfolio-container_groupA'>
-                    <Article imgUrl={port01} date="Dec 15 2020" title="Gluten free Cookbook"/>
+                    <a href='https://github.com/rubilmarija/Recipes-website'><Article imgUrl={port01} date="Dec 15 2020" title="Gluten free Cookbook"/></a>
                 </div>
                 <div className='portfolio-container_groupB'>
                     <Article imgUrl={port02} date="Project in progress" title="Weather Forecast"/>

@@ -23,6 +23,7 @@
   line-height: 75px;
   text-align: center;
   letter-spacing: -0.04rem;
+  color: #11324d;
 }
 
 .footer-links {
@@ -100,7 +101,7 @@
   font-family: var(--font-family);
   font-size: 12px;
   line-height: 14px;
-  color: #ffffff;
+  color: #fff5eb;
 }
 
 @media screen and (max-width: 850px) {

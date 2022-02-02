@@ -3,12 +3,27 @@
 :root {
   --font-family: "Comfortaa", cursive;
 
-  --gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+  --gradient-text: linear-gradient(
+    207deg,
+    rgba(142, 151, 120, 1) 28%,
+    rgba(17, 50, 77, 1) 100%
+  );
+  --gradient-bar: linear-gradient(
+    207deg,
+    rgba(142, 151, 120, 1) 28%,
+    rgba(17, 50, 77, 1) 100%
+  );
 
-  --color-bg: #040c18;
-  --color-footer: #0f1624;
+  --color-bg: #fff5eb;
+  --color-footer: #b2b8a3;
   --color-blog: #042c54;
-  --color-text: #81afdd;
+  --color-text: #11324d;
   --color-subtext: #ff8a71;
+
+  --gradient-cta: linear-gradient(
+    90deg,
+    rgba(222, 237, 240, 1) 0%,
+    rgba(244, 199, 171, 1) 73%,
+    rgba(178, 184, 163, 1) 100%
+  );
 }

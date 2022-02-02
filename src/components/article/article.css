@@ -32,7 +32,7 @@
   font-weight: bold;
   font-size: 12px;
   line-height: 35px;
-  color: white;
+  color: #fff5eb;
 }
 
 .portfolio-container_article-content h3 {
@@ -40,7 +40,7 @@
   font-weight: 800;
   font-size: 26px;
   line-height: 30px;
-  color: white;
+  color: #fff5eb;
 
   margin-bottom: 4rem;
   cursor: pointer;

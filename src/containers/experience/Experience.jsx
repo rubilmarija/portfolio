@@ -23,10 +23,10 @@ const experienceData2 = [
         title: 'React',
     },
     {
-        title: 'Flexbox',
+        title: 'Node.js',
     },
     {
-        title: 'Bootstrap',
+        title: 'Flexbox',
     },
     {
         title: 'Visual Studio Code',
